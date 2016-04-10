@@ -1,0 +1,2 @@
+class SellPostsController < ApplicationController
+end
